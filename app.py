@@ -7,7 +7,7 @@ import plotly.express as px
 # ======================
 
 st.set_page_config(
-    page_title="Dashboard Clustering Kasus Kekerasan Perempuan Dewasa",
+    page_title="Dashboard Clustering Kasus Kekerasan Perempuan Dewasa (1)",
     page_icon="📊",
     layout="wide"
 )
